@@ -10,7 +10,7 @@ porcentaje_calculado = numero_a_validar*(porcentaje/100)
 print("El número a calcular el porcentaje es", numero_a_validar)
 print("El valor del porcentaje es", porcentaje)
 print("Resultado",porcentaje_calculado)    # Aca estamos imprimiendo el valor de el porcentaje calculado
-print("Gracias por tu trabajo")
+print("Gracias por tu trabajo! :D")
 
 # var = 2.5
 # variable = "Texto"
