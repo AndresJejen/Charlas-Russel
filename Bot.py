@@ -8,5 +8,8 @@ Bot =   {
 mensaje = ""
 
 while (mensaje != "Chao"):
-    mensaje = input(" Tu: ")
-    print(Bot[mensaje])
+    try:
+        mensaje = input(" Tu: ")
+        print(Bot[mensaje])
+    except:
+        print("No entiendo tu pregunta -- repitemela por favor")
